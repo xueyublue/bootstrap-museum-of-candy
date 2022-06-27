@@ -1,2 +1,3 @@
-# museum-of-candy
+# Museum Of Candy
+
 Bootstrap demo project
